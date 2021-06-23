@@ -1,0 +1,25 @@
+{
+  "basketProducts": [
+    {},
+    {
+      "productId": 11,
+      "quantity": 13
+    },
+    {
+      "productId": 9,
+      "quantity": 0
+    },
+    {
+      "productId": 1,
+      "quantity": 2
+    },
+    {
+      "productId": 4,
+      "quantity": 1
+    },
+    {
+      "productId": 7,
+      "quantity": 4
+    }
+  ]
+}
